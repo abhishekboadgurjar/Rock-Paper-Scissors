@@ -19,8 +19,6 @@ The **Rock Paper Scissors Game** is a web-based application where users can play
 - **CSS**: Styles the game interface for a clean and responsive design.
 - **JavaScript**: Manages the game logic, including user interactions and score tracking.
 
-
-
 ## Installation
 
 To get started with the project, follow these steps:
